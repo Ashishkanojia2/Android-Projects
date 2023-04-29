@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:background="#058581"
+    tools:context=".LoginActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/LogIn"
+        android:text="LogIn"
+        android:textSize="45dp"
+        android:textColor="#F8947C"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="45dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/Username1"
+        android:hint="UserName"
+        android:textSize="25dp"
+        android:textColorHint="#ffff"
+        android:background="@drawable/edittextbackground"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/Password1"
+        android:hint="Password"
+        android:textSize="25dp"
+        android:textColorHint="#ffff"
+        android:background="@drawable/edittextbackground"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        />
+
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/login1"
+        android:text="LogIn"
+        android:textColor="#058581"
+        android:textSize="23dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:backgroundTint="#F8947C"
+        />
+
+
+
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

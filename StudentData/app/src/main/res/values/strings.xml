@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentData</string>
+    <array name="Course">
+        <item>="Bca"</item>
+        <item>="Mca"</item>
+        <item>="Btech"</item>
+        <item>="Mtech"</item>
+
+    </array>
+
+</resources>

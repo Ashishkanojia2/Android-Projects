@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My first game</string>
+    <string name="heading">Lets Play The Game</string>
+    <string name="grid">Our mian grid</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344477442570",
+    "project_id": "nootess-18569",
+    "storage_bucket": "nootess-18569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344477442570:android:e54dc29cd291d5413cf5f3",
+        "android_client_info": {
+          "package_name": "com.example.nootess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344477442570-c0mn1n9r8jsbrdlk3cnjnvv43vck5i2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRBwyXWwlkO52Wr2UJg-Z0z65Z_4tb7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344477442570-c0mn1n9r8jsbrdlk3cnjnvv43vck5i2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

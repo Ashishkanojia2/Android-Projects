@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multiscreen</string>
+    <string name="foodItem1">FoodItem1</string>
+    <string name="foodItem2">FoodItem2</string>
+    <string name="FoodItem3">FoodItem3</string>
+    <string name="Placeorder">Place your  Order</string>
+    <string name="food_delivery">Food Delivery</string>
+    <string name="Message">Message</string>
+    <string name="placeorder">PlaceOrder</string>
+
+</resources>

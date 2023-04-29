@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="-146dp"
+        tools:layout_editor_absoluteY="0dp">
+
+
+        <Button
+            android:id="@+id/ScnBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="50dp"
+            android:text="Code Scan"
+            android:textSize="25sp"
+
+            />
+
+        <EditText
+            android:id="@+id/Edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:hint="Product price"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+
+            />
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="19.5dp"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="162dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:orientation="vertical"
+
+        >
+
+
+        <Button
+            android:id="@+id/AddBtn"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="15dp"
+            android:text="Add Btn"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/AddBtn1"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="15dp"
+            android:text="Total"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/AddBtn2"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="15dp"
+            android:text="Discount %"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/AddBtn3"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="15dp"
+            android:text="Add Btn"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/TotalAmt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:hint="Total Amount"
+            android:paddingLeft="20sp"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/Discount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:hint="Discount"
+            android:paddingLeft="20sp"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/AmountPay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:hint="AmountPay"
+            android:paddingLeft="20sp"
+            android:textSize="25sp" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

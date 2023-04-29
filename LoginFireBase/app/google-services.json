@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519589598555",
+    "project_id": "western-glow-337717",
+    "storage_bucket": "western-glow-337717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519589598555:android:af3b3b9b9887e78683f67e",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519589598555-tjq8thlqavm4q2crvk58ivq54o07k9ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Fvpu0YJb9CmMOvttMEpms3IsfTd7bDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519589598555-tjq8thlqavm4q2crvk58ivq54o07k9ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

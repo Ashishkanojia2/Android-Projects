@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153913305023",
+    "project_id": "studentdatabase2022db",
+    "storage_bucket": "studentdatabase2022db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153913305023:android:a18f60398eb50f08cca30a",
+        "android_client_info": {
+          "package_name": "com.example.studentdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153913305023-8hk0tal417d760u7m0tmgnuvihordmi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVMv2lxw8GDgeGjpazm7w05I1LDNMyiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153913305023-8hk0tal417d760u7m0tmgnuvihordmi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

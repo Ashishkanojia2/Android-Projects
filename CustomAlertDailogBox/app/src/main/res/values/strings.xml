@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomAlertDailogBox</string>
+    <string name="message_is_successfully_send">Message is successfully send</string>
+    <string name="success">SUCCESS</string>
+    <string name="this_message_is_send_successfully">This Message is Send Successfully</string>
+</resources>
